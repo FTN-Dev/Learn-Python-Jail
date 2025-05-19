@@ -9,12 +9,12 @@
 <br>
 
 <p><strong>- for index in array(list)</strong></p>
-<p>Loop yang digunakan untuk mengambil setiap index dari dalam array atau list. Contohnya bisa dilihat pada <a href="https://github.com/FTN-Dev/CTF_Learn/blob/main/cryptohack/general/encoding/ascii/ascii-chr.py">file ini</a>.</p>
+<p>Loop yang digunakan untuk mengambil setiap index dari dalam array atau list.</p>
 
 <br>
 
-<p><strong>- ''.join</strong></p>
-<p>''.join digunakan untuk string yang terletak pada list atau array menjadi satu string yang sama (sejajar).</p>
+<p><strong>- ' '.join</strong></p>
+<p>''.join digunakan untuk string yang terletak pada list atau array menjadi satu string yang sama (sejajar). Contohnya bisa dilihat pada <a href="https://github.com/FTN-Dev/CTF_Learn/blob/main/cryptohack/general/encoding/ascii/ascii-chr.py">file ini</a>.</p>
 
 <br>
 
