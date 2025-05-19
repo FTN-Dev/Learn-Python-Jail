@@ -1,5 +1,6 @@
 # Hex
-<h1>Command yang didapatkan</h1>
+<p><strong>Syntax yang didapatkan</strong></p>
 <p>
-
+- bytes.fromhex()
+- bytes.hex()
 </p>
