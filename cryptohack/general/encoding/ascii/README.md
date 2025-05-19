@@ -24,7 +24,7 @@
 <br>
 
 <p><strong>- list(var_string)</strong></p>
-<p>list(var_string) digunakan untuk mengubah strings dipisah menjadi index index yang ada pada array atau list.Contohnya bisa dilihat <a href="https://github.com/FTN-Dev/CTF_Learn/blob/main/cryptohack/general/encoding/ascii/ascii-ord.py">disini</a>.</p>
+<p>list(var_string) digunakan untuk mengubah strings dipisah menjadi index index yang ada pada array atau list. Contohnya bisa dilihat <a href="https://github.com/FTN-Dev/CTF_Learn/blob/main/cryptohack/general/encoding/ascii/ascii-ord.py">disini</a>.</p>
 
 <br>
 
