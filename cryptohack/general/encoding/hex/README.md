@@ -6,7 +6,7 @@
 <p><strong>- bytes.fromhex()</strong></p>
 <p>bytes.fromhex() digunakan untuk mengubah hex text kembali menjadi plaintext.</p>
 
-<br><br>
+<br>
 
 <p><strong>- bytes.hex()</strong></p>
 <p>bytes.hex() digunakan untuk mengubah plaintext menjadi hex.</p>
