@@ -6,7 +6,7 @@
 ## Syntax yang didapatkan
 
 <p><strong>- from pwn import *</strong></p>
-<p>Untuk fungsinya disini adalah untuk memanggil semua fungsi yang ada di library pwn, cuma yang akan digunakan disini adalah xor() saja.</p>
+Untuk fungsinya disini adalah untuk memanggil semua fungsi yang ada di library pwn, cuma yang akan digunakan disini adalah xor() saja.
 
-<h2><strong>Workflow</strong></h2>
+## Workflow
 <p>If u see at the image of the chall, u can see if the chall give the clue it self how the code workflow.</p>
