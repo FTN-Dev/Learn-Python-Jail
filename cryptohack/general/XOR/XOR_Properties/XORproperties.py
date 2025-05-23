@@ -34,3 +34,5 @@ print(flagss)
 # keyntah = xor(key1_2, xor2)
 # maybflags = xor(flags, keyntah)
 # print(maybflags)
+
+
