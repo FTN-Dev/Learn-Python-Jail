@@ -5,7 +5,7 @@
 
 ## Syntax yang didapatkan
 
-* from pwn import *
+* **from pwn import ***
 Untuk fungsinya disini adalah untuk memanggil semua fungsi yang ada di library pwn, cuma yang akan digunakan disini adalah xor() saja.
 
 ## Workflow
