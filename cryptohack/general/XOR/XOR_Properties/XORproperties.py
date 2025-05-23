@@ -21,6 +21,8 @@ print(flagss)
 
 
 
+
+## Under this is practice code, the first code i made.
 # key1 = bytes.fromhex(key1)
 # key1_2 = bytes.fromhex(KEY2_xor_KEY1)
 # key2_3 = bytes.fromhex(KEY2_xor_KEY3)
