@@ -1,9 +1,9 @@
 <p>i will update this readme later, mayb with the explanation of the code. </p>
 
-* Chall
+# Chall
 <img src="img/properties.png">
 
-** Syntax yang didapatkan
+## Syntax yang didapatkan
 
 <p><strong>- from pwn import *</strong></p>
 <p>Untuk fungsinya disini adalah untuk memanggil semua fungsi yang ada di library pwn, cuma yang akan digunakan disini adalah xor() saja.</p>
