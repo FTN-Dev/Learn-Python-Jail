@@ -11,7 +11,7 @@ Untuk fungsinya disini adalah untuk memanggil semua fungsi yang ada di library p
 
 * __xor()__
 
-Ini adalah salah satu function yang ada di library pwn, jadi disini fungsinya adalah untuk melakukan perhitungan xor kepada data type apapun, yang dimana dalam kondisi ini adalah
+    - Ini adalah salah satu function yang ada di library pwn, jadi disini fungsinya adalah untuk melakukan perhitungan xor kepada data type apapun, yang dimana dalam kondisi ini adalah
 
 ```
 xor(bytes, bytes)
