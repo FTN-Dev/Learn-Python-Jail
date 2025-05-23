@@ -19,8 +19,6 @@ xor(bytes, bytes)
 
 Untuk yang lain kurang tau bagaimana, apakah bisa string dengan string, atau string dengan int, lain kali akan aku coba.
 
-...
-
 Tapi ketika mencoba untuk xor biasa menggunakan "^", dibawah ini adalah hasilnya.
 
 ```
