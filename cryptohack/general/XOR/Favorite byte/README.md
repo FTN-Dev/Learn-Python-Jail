@@ -43,5 +43,5 @@ If u see at the image of the chall, u can read if the XOR Key is just one byte o
         ```
         for i in range(0,257):
         ```
-     and make sure 257 is more than 8 bit.
+        and make sure 257 is more than 8 bit.
  
