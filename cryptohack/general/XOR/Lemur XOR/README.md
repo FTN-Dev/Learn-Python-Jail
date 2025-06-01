@@ -44,5 +44,9 @@
 
 ## Workflow
 
-So, for the first, lemme explain about the first code, <a href="lemur1.py">lemur</a>
+I dont think i need to explain the workflow. Cuz i think its already explained on the top. So, this is my code reference.
+
+ - <a href="lemur1.py">lemur1.py</a> <a href="https://stackoverflow.com/questions/61304857/calculating-xor-of-the-two-images">reference</a>
+
+ - <a href="lemur2.py">lemur2.py</a> <a href="https://crypto.stackexchange.com/questions/88430/how-to-decrypt-two-images-encrypted-using-xor-with-the-same-key">reference</a>   
  
