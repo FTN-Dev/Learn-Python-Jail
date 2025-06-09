@@ -27,4 +27,5 @@ __getattribute__()
 ```
 
 u can see the image below, its just the same
+
 <img src="img/blacklistmodel1-1.png"> 
