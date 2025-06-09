@@ -1,5 +1,5 @@
 expr = input("Put syntax to get shell: \n; ")
-blacklist = ['__import__', '__system__', 'sh', 'os']
+blacklist = ['__import__', 'system', 'sh', 'os']
 
 for char in blacklist:
     if char in expr:
