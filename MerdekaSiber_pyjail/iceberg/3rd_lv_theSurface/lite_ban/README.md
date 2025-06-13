@@ -10,4 +10,4 @@ So if u can see at image below, we have so many function in __\_\_builtins\_\___
 
 <img src='img/builtins_dict.png'>
 
-But, that is too much to read one by one. So i made helper to show what is function that didnt contain __LITE__. This is the helper <a href='builtins_dict.py'></a>
+But, that is too much to read one by one. So i made helper to show what is function that didnt contain __LITE__. This is the <a href='builtins_dict.py'>helper.</a>
