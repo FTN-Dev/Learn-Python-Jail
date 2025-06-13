@@ -26,6 +26,8 @@ next, we need __import os__ and __system sh__ ofc, so we need to wrap the __vars
 
 <img src='img/vars_in_vars.png'>
 
-Finally we get the shell. But dont forget about letters LITE ban, so we should change it to another form, i choose to change it using hex string. And im using helper to easlyget the hex in <a href='tohex.py'>this</a>
+Finally we get the shell. But dont forget about letters LITE ban, so we should change it to another form, i choose to change it using hex string. And im using helper to easlyget the hex in <a href='tohex.py'>this</a>.
 
 <img src='img/lastformpayload.png'>
+
+btw, u can use another way, like using __input()__, or __chr()__, but it must be long payload yea.
