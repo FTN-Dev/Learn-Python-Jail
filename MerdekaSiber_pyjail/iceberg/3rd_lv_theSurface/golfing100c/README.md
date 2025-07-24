@@ -20,7 +20,7 @@ after that, using this payload will call the __\_\_builtins\_\___ function.
 [x for x in vars()][6]
 ```
 
-<img src='img/3.png'>
+<img src='img/3.png' width='400px'>
 
 now lets try to put in inside the __vars()__
 
