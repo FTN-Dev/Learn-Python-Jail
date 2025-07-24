@@ -12,7 +12,7 @@ First, lets use inline for loop to iterate __vars()__ and get the builtins
 
 u can see if the __\_\_builtins\_\___ function is on array, so we need to know where is the index of that function. Cuz if we call the function normally, it will make the payload longer.
 
-<img src='img/2.png' width='400px'>
+<img src='img/2.png' width='300px'>
 
 after that, using this payload will call the __\_\_builtins\_\___ function.
 
@@ -20,7 +20,7 @@ after that, using this payload will call the __\_\_builtins\_\___ function.
 [x for x in vars()][6]
 ```
 
-<img src='img/3.png' width='400px'>
+<img src='img/3.png' width='300px'>
 
 now lets try to put in inside the __vars()__
 
