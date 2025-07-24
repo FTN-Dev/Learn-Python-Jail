@@ -8,7 +8,7 @@ First, lets use inline for loop to iterate __vars()__ and get the builtins
 [x for x in vars()]
 ```
 
-<img src='img/1.png' width='400px'>
+<img src='img/1.png' width='600px'>
 
 u can see if the __\_\_builtins\_\___ function is on array, so we need to know where is the index of that function. Cuz if we call the function normally, it will make the payload longer.
 
@@ -36,4 +36,4 @@ now take the __eval()__ and __input()__
 
 it works, now put the __input()__ inside the __eval()__
 
-<img src='img/6.png' width='500'>
+<img src='img/6.png' width='700'>
