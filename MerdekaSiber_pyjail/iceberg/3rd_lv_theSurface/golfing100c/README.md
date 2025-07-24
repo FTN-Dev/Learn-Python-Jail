@@ -84,7 +84,7 @@ use this syntax to know what is builtins function
 [y for y in vars(vars()[[x for x in vars()][6]])]
 ```
 
-<img src='img/10.png' width='800px'>
+<img src='img/10.png' width='1000px'>
 
 __breakpoint()__ is one of builtins function, so, lets call it
 
