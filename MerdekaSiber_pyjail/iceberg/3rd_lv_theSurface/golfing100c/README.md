@@ -54,4 +54,4 @@ ok its done, next, lets check the length of the payload using my own <a href='co
 
 but the main problem is here, test the payload to the blacklist code.
 
-<img src='img/8.png' width='800pxs'>
+<img src='img/8.png' width='800px'>
