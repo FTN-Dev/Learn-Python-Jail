@@ -8,11 +8,11 @@ First, lets use inline for loop to iterate __vars()__ and get the builtins
 [x for x in vars()]
 ```
 
-<img src='img/1.png'>
+<img src='img/1.png' width='400px'>
 
 u can see if the __\_\_builtins\_\___ function is on array, so we need to know where is the index of that function. Cuz if we call the function normally, it will make the payload longer.
 
-<img src='img/2.png' width='300px'>
+<img src='img/2.png' width='400px'>
 
 after that, using this payload will call the __\_\_builtins\_\___ function.
 
@@ -24,12 +24,16 @@ after that, using this payload will call the __\_\_builtins\_\___ function.
 
 now lets try to put in inside the __vars()__
 
-<img src='img/4.png'>
+```
+vars(vars()[[x for x in vars()][6]])
+```
+
+<img src='img/4.png' width='800'>
 
 now take the __eval()__ and __input()__
 
-<img src='img/5.png'>
+<img src='img/5.png' width='400'>
 
 it works, now put the __input()__ inside the __eval()__
 
-<img src='img/6.png'>
+<img src='img/6.png' width='500'>
