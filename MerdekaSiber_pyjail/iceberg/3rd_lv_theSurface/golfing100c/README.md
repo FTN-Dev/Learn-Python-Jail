@@ -50,4 +50,8 @@ it works, now put the __input()__ inside the __eval()__
 
 ok its done, next, lets check the length of the payload using my own <a href='count_char.py'>code</a>.
 
-<img src='img/7.png' width='800px'>
+<img src='img/7.png' width='900px'>
+
+but the main problem is here, test the payload to the blacklist code.
+
+<img src='img/8.png' width='800pxs'>
