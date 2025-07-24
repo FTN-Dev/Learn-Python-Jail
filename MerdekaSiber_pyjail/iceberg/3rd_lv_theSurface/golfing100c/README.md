@@ -30,7 +30,17 @@ vars(vars()[[x for x in vars()][6]])
 
 <img src='img/4.png' width='800'>
 
-now take the __eval()__ and __input()__
+now take the __eval()__ and __input()__ using
+
+```
+vars(vars()[[x for x in vars()][6]])['eval']
+```
+
+and
+
+```
+vars(vars()[[x for x in vars()][6]])['input']
+```
 
 <img src='img/5.png' width='400'>
 
