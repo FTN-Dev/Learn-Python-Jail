@@ -55,3 +55,41 @@ ok its done, next, lets check the length of the payload using my own <a href='co
 but the main problem is here, test the payload to the blacklist code.
 
 <img src='img/8.png' width='800px'>
+
+yea, i forgot bout __LITE Ban__, lets fix it using another way
+
+<img src='img/9.png' width='800px'>
+
+the solution is change the __"LITE"__ with hex, but look what happen, the payload is over 100 character, but i have another solution.
+
+There is some function that is shorter than __eval(input())__, that is __breakpoint()__.
+
+So, instead of using
+
+```
+eval(input())
+```
+
+to get the shell, we can use that is shorter
+
+```
+breakpoint()
+```
+
+in a normal syntax, __breakpoint()__ is more shorter one character, and __breakpoint()__ will send us to Pdb (Python debugger).
+
+use this syntax to know what is builtins function
+
+```
+[y for y in vars(vars()[[x for x in vars()][6]])]
+```
+
+<img src='10.png' width='800px'>
+
+__breakpoint()__ is one of builtins function, so, lets call it
+
+```
+vars(vars()[[x for x in vars()][6]])['breakpoint']()
+```
+
+
