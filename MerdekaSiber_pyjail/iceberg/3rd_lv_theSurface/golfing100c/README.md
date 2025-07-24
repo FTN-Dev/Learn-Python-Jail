@@ -28,7 +28,7 @@ now lets try to put in inside the __vars()__
 vars(vars()[[x for x in vars()][6]])
 ```
 
-<img src='img/4.png' width='800'>
+<img src='img/4.png' width='800px'>
 
 now take the __eval()__ and __input()__ using
 
@@ -42,8 +42,12 @@ and
 vars(vars()[[x for x in vars()][6]])['input']
 ```
 
-<img src='img/5.png' width='400'>
+<img src='img/5.png' width='400px'>
 
 it works, now put the __input()__ inside the __eval()__
 
-<img src='img/6.png' width='700'>
+<img src='img/6.png' width='700px'>
+
+ok its done, next, lets check the length of the payload using my own <a href='count_char.py'>code</a>.
+
+<img src='img/7.png' width='400px'>
