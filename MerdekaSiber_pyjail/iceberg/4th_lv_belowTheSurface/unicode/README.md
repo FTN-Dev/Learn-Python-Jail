@@ -10,7 +10,7 @@ lets try it
 𝓫𝓻𝓮𝓪𝓴𝓹𝓸𝓲𝓷𝓽()
 ```
 
-<img src='img/2.png'>
+<img src='img/2.png' width='600px'>
 
 it works!, but this type of payload is always on a blacklist, look at the img below
 
