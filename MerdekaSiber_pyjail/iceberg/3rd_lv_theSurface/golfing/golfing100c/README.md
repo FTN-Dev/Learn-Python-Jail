@@ -103,4 +103,10 @@ i takes so long time to make it by myself, huhh
 
 <img src='img/11.png' width='800px'>
 
-u know what
+u guys realize or nah, there is still "i" in "in"
+
+```
+vars(vars()[[x for x in vars()][6]])['br\x65akpo\x69n\x74']()
+```
+
+we can make it shorterr but its on <a href=''>golfing 50 character</a>
