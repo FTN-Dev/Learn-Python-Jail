@@ -36,3 +36,6 @@ vars(x:=vars()[[*vars()][6]])[[*vars(x)][12]]()
 
 <img src='img/3.png' width='700px'>
 
+it will be works! lets see
+
+<img src='img/4.png' width='700px'>
