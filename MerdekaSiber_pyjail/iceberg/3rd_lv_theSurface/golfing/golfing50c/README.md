@@ -28,6 +28,11 @@ u guys can see huh? lets see the character
 
 see, just using __*__, it makes the payload reducing 30 char. But its still far from the maximum payload.
 
-<img src='img/3.png' width='900'>
+i have more solution for this, lets use walrus operator __:=__.
 
-u can see, it work!
+```
+vars(x:=vars()[[*vars()][6]])[[*vars(x)][12]]()
+```
+
+<img src='img/3.png' width='700px'>
+
