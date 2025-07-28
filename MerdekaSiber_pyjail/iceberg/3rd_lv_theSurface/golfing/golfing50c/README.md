@@ -24,7 +24,7 @@ vars(vars()[[*vars()][6]])[[*vars(vars()[[*vars()][6]])][12]]()
 
 u guys can see huh? lets see the character
 
-<img src='img/2.png' width='700px'>
+<img src='img/2.png' width='600px'>
 
 see, just using __*__, it makes the payload reducing 30 char. But its still far from the maximum payload.
 
@@ -34,7 +34,7 @@ i have more solution for this, lets use walrus operator __:=__.
 vars(x:=vars()[[*vars()][6]])[[*vars(x)][12]]()
 ```
 
-<img src='img/3.png' width='700px'>
+<img src='img/3.png' width='600px'>
 
 it will be works! lets see
 
